@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/47197695/90208415-2ce63d80-ddbf-11ea-9345-4a0202e2b044.png" alt="Imagem Demo" />
+<img src="https://user-images.githubusercontent.com/47197695/148328726-ec954963-3078-4e73-9d9e-474929c19c46.gif" alt="Imagem Demo" />
 
 
 ## Install
